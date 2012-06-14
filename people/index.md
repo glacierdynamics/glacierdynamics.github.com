@@ -7,15 +7,15 @@ group: navigation
 
 Principal Investigator
 ----------------------
-Professor Tavi Murray
+[Professor Tavi Murray](http://www.swan.ac.uk/staff/academic/environmentsociety/geography/murrayt/)
 
 Co-investigators
 ----------------
-Professor Timothy O'Farrel
+[Professor Tim O'Farrell](http://www.sheffield.ac.uk/eee/staff/t_ofarrell)
 
-Dr Stuart Edwards
+[Dr Stuart Edwards](http://www.ncl.ac.uk/ceg/staff/profile/stuart.edwards)
 
-Dr Ian Rutt
+[Dr Ian Rutt](http://www.swan.ac.uk/staff/academic/environmentsociety/geography/ruttian/)
 
 Dr Pavel Loskot
 
@@ -24,5 +24,7 @@ Post-Doctoral Researchers
 Dr Anas Al-Rawi
 
 Ian Martin
+
+[Nick Selmes](http://www.swan.ac.uk/staff/academic/environmentsociety/geography/selmesnick/)
 
 Dr Robin Aspey
